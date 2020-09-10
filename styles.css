@@ -1,0 +1,43 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#container {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    height: 800px;
+    width: 800px;
+    background-color: white;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: auto;
+  }
+  
+  #container > div {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+  }
+body{
+    background-color: lightblue;
+}
+  button {
+      margin-left:44%;
+      margin-bottom: 15px;
+      border-radius: 5px 5px solid black;
+      box-shadow: 4px 4px lightslategray;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;  
+  }
+  button:hover{
+      background-color: grey;
+      font-weight: bold;
+  }
+  
+  .blank {
+    background-color: white;
+  }
+  
+  .dark {
+    background-color: black;
+  }
