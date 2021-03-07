@@ -1,2 +1,1 @@
-the etch a sketch project by william mcquaid
-the odin project
+Project built using JS by William McQuaid
