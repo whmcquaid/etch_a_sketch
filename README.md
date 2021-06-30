@@ -1,2 +1,2 @@
-the etch a sketch project by william mcquaid
-the odin project
+Project built using JS by William McQuaid
+Check it out https://whmcquaid.github.io/etch_a_sketch/
