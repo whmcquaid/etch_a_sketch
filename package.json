@@ -1,0 +1,19 @@
+{
+  "name": "etch_a_sketch",
+  "version": "1.0.0",
+  "description": "the etch a sketch project by william mcquaid the odin project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whmcquaid/etch_a_sketch.git"
+  },
+  "author": "William McQuaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whmcquaid/etch_a_sketch/issues"
+  },
+  "homepage": "https://github.com/whmcquaid/etch_a_sketch#readme"
+}
